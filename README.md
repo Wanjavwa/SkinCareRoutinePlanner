@@ -104,6 +104,9 @@ Export options
 Notification preferences
 
 ...
+
+
+
 3. Navigation
 *Tab Navigation
 Your app could use 3 main tabs:
