@@ -10,7 +10,7 @@ Schema
 Overview
 Description
 
-The Skincare Routine Calendar App helps users plan, organize, and stay consistent with their skincare routines. Users can add skincare items to specific days of the week, mark them as morning or evening, and view a calendar that shows what products they need to apply each day. The app is designed for beginners, teens, and anyone who struggles with maintaining a consistent skincare regimen.
+The Skincare Routine Calendar App helps users plan, organize, and stay consistent with their skincare routines. Users can add skincare items to specific days of the week, mark them as morning or evening, and view a calendar that shows what products they need to apply each day. The app is designed for beginners, teens, and anyone who struggles with maintaining a consistent regimen.
 
 App Evaluation
 [Evaluation of your app across the following attributes]
@@ -140,6 +140,8 @@ Back → Home
 Wireframes
 
 [Add picture of your hand sketched wireframes in this section] 
+
+
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
