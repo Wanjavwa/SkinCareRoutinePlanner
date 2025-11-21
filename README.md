@@ -1,5 +1,8 @@
 Original App Design Project - README Template
-APP_NAME_HERE
+
+SkincareToday
+
+
 Table of Contents
 Overview
 Product Spec
@@ -67,6 +70,7 @@ Profile/settings page with theme changes.
 ...
 2. Screen Archetypes
 📆 Home Screen (Daily Routine View)
+(Elements of this page have been updated in projects code)
 Shows today’s date
 Morning routine section
 Evening routine section
@@ -167,3 +171,4 @@ Networking
 [Add list of network requests by screen ]
 [Create basic snippets for each Parse network request]
 [OPTIONAL: List endpoints if using existing API such as Yelp]
+
