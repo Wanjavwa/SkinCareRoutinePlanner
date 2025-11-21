@@ -141,9 +141,9 @@ Wireframes
 
 [Add picture of your hand sketched wireframes in this section] 
 
-[ChatGPT Image Nov 20, 2025, 10_18_35 PM.png](https://github.com/Wanjavwa/SkinCareRoutinePlanner/blob/34db4405b9affa5992b60c26d981de8e81547b2f/ChatGPT%20Image%20Nov%2020%2C%202025%2C%2010_18_35%20PM.png)
+[home page ](https://github.com/Wanjavwa/SkinCareRoutinePlanner/blob/34db4405b9affa5992b60c26d981de8e81547b2f/ChatGPT%20Image%20Nov%2020%2C%202025%2C%2010_18_35%20PM.png)
 
-[BONUS] Digital Wireframes & Mockups
+[BONUS] [add routine](https://github.com/Wanjavwa/SkinCareRoutinePlanner/blob/c97d17543eb84be8347c915b23eaf0ed866b9791/ChatGPT%20Image%20Nov%2020%2C%202025%2C%2010_33_13%20PM.png)
 [BONUS] Interactive Prototype
 
 Schema
