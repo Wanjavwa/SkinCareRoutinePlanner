@@ -141,7 +141,7 @@ Wireframes
 
 [Add picture of your hand sketched wireframes in this section] 
 
-
+ChatGPT Image Nov 20, 2025, 10_18_35 PM.png
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
