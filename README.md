@@ -75,6 +75,7 @@ Required user stories:
 View today’s skincare
 Tap an item to view/edit
 Access Add Routine screen
+
 ➕ Add/Edit Routine Screen
 Form to enter product name
 Select morning/evening
@@ -84,6 +85,7 @@ Required user stories:
 Add skincare item
 Edit skincare item
 Delete item
+
 📅 Calendar Screen
 Monthly/weekly layout
 Indicators on days with routines
@@ -91,6 +93,7 @@ Tap day → shows list of items
 Required user stories:
 View full routine schedule
 See what’s assigned to each day
+
 ⚙️ Settings Screen (optional)
 Theme toggle
 Reset all routines
