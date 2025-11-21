@@ -144,9 +144,10 @@ Wireframes
 [home page ](https://github.com/Wanjavwa/SkinCareRoutinePlanner/blob/34db4405b9affa5992b60c26d981de8e81547b2f/ChatGPT%20Image%20Nov%2020%2C%202025%2C%2010_18_35%20PM.png)
 
 [BONUS] [add routine](https://github.com/Wanjavwa/SkinCareRoutinePlanner/blob/c97d17543eb84be8347c915b23eaf0ed866b9791/ChatGPT%20Image%20Nov%2020%2C%202025%2C%2010_33_13%20PM.png)
-[BONUS] Interactive Prototype
 
-Schema
+[BONUS] [Calendar](https://github.com/Wanjavwa/SkinCareRoutinePlanner/blob/c97d17543eb84be8347c915b23eaf0ed866b9791/ChatGPT%20Image%20Nov%2020%2C%202025%2C%2010_33_21%20PM.png)
+
+
 [This section will be completed in Unit 9]
 
 Models
