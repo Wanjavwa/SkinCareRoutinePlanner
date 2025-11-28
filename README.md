@@ -172,3 +172,7 @@ Networking
 [Create basic snippets for each Parse network request]
 [OPTIONAL: List endpoints if using existing API such as Yelp]
 
+BELOW IVE ATTACHED THE CURRENT VIDEO WAKTHROUGH OF THE APP
+
+[Video Walkthrough](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9mNmpvc2E3MDV3bDM3azZkb2dkemZyYWhwYWJsOHRjaTczbTh5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/folgREs9IV0xU1Pd7V/giphy.gif)
+
